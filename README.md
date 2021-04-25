@@ -1,2 +1,2 @@
 # Music-Player
-This is The Music Player app made usign javascript.
+This is The Music Player app made using javascript.
